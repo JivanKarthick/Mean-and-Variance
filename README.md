@@ -48,9 +48,8 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
-Name:ARUN KUMAR SUKDEV CHAVAN
-
-Regno:212222230013
+Name:Jivan Karthec.B.S
+Regno:21222210017
 
 ```python
 import numpy as np
